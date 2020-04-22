@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Personal Photos</string>
+    <string name="imgLarge">Personal Photo Image</string>
+    <string name="txtToastIndex0">The Banks Family</string>
+    <string name="txtToastIndex1">Doug, Stacey, Nick and Fletch</string>
+    <string name="txtToastIndex2">Fletch and Ryder</string>
+    <string name="txtToastIndex3">Fletcher</string>
+    <string name="txtToastIndex4">Fletch, Nick, PeePaw, Andy and Nanny</string>
+    <string name="txtToastIndex5">Nick and Fletch</string>
+    <string name="txtToastIndex6">Riley and Fletch</string>
+    <string name="txtToastIndex7">Spooky, Cheddar and Tiger Lilly</string>
+</resources>
